@@ -1,4 +1,4 @@
-<h2>TVbLOCAL INDONESIA</h2>
+<h2>TV LOCAL INDONESIA</h2>
 
 | #   | Channel        | Link  | Logo |
 |:---:|:--------------:|:-----:|:----:|
