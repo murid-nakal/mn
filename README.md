@@ -1,6 +1,6 @@
 <h2>TV NASIONAL INDONESIA</h2>
 
-|LOGO|CHANNEL|Link|
+|LOGO|CHANNEL|LINK|
 |:----:|:--------------:|:-----:|
 |<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png"/>|SCTV|[▶️](https://donelfantastic.github.io/creativemedia/local/sctvID.m3u8)|
 |<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png"/>|INDOSIAR|[▶️](https://donelfantastic.github.io/creativemedia/local/indosiarID.m3u8)|
