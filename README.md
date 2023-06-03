@@ -19,7 +19,7 @@
 |<img height="20" src="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/400px-RCTI_logo_2015.svg.png"/>|RCTI|[▶️](https://donelfantastic.github.io/creativemedia/local/rctiID.m3u8)|
 |<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png"/>|MNCTV| [▶️](https://donelfantastic.github.io/creativemedia/local/mnctvID.m3u8)|
 
-<h2>TV INTERNASIONAL</h2>
+<h2>NEWS TV INTERNATIONAL</h2>
 
 |LOGO|CHANNEL|LINK|
 |:----:|:--------------:|:-----:|
