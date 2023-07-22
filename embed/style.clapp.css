@@ -1,0 +1,141 @@
+html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  position: relative;
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  background: rgba(44, 131, 185, 1);
+    background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+}
+#banner {
+  border-bottom: 1px solid #fff;
+  background-color: transparent;
+  width: 100%;
+}
+#banner h1 {
+  margin: 0;
+  padding: 30px;
+}
+#banner .logo {
+  padding: 0px;
+  width: 100%;
+  min-width: 350px;
+  margin: auto;
+}
+.logo img {
+  width: 100%;
+  height: auto;
+    }
+#banner .title {
+  width: 75%;
+  white-space: nowrap;
+}  
+h1.bitmovin-headline,
+h2.bitmovin-headline,
+h3.bitmovin-headline,
+p {
+  font-weight: 300;
+  text-align: center;
+  margin: 40px;
+}
+.bitmovin-description {
+  padding: 45px 0;
+  font-size: large;
+}
+.vid-player {
+  padding: 0;
+  margin: 0;
+  display: block;
+  position: relative;
+  margin-bottom: 1em;
+  overflow: hidden;
+}
+.responsive-vid {
+  padding-bottom: 56.25%;
+}  
+.player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  border: 0;
+}    
+#player {
+  box-shadow: 0px 0px 56px 0px rgba(0, 0, 0, 0.75);
+}
+a {
+  color: #97d9ef;
+  font-weight: 400;
+  text-decoration: none;
+}
+a:hover {
+  color: #fff;
+}
+#webserver-warning {
+  text-align: center;
+  margin: 50px;
+  padding: 20px;
+  background-color: rgba(255, 0, 0, 0.5);
+  display: none;
+}
+@media (max-width: 1000px) {
+  .logo {
+    width: 100%;
+  }
+  .title {
+    display: none;
+  }
+}
+    .my-nav {
+      position: absolute;
+      top: 1%;
+    }
+    .my-nav ul {
+      list-style-type: none;
+      padding: 0;
+      transform: translatex(-270px);
+    }
+    .my-nav ul li {
+      display: block;
+      margin: 30px;
+      width: 300px;
+      text-align: right;
+      padding: 5px;
+      border-radius: 0 30px 30px 0;
+      transition: all 2s;
+    }
+    .my-nav ul li a {
+      color: white;
+      text-decoration: none;
+    }
+    .my-nav ul li i {
+      text-align: center;
+      margin-left: 10px;
+      color: black;
+      background-color: white;
+      padding: 11px;
+      border-radius: 50%;
+      width: 45px;
+      height: 45px;
+      font-size: 20px;
+      transform: rotate(0deg);
+    }
+    .my-nav ul li:hover i {
+      transform: rotate(360deg);
+      transition: all 2s;
+      background-color: #f30876;
+      color: #ffffff;
+    }
