@@ -7,7 +7,7 @@
     <script>
         function fetchProxy() {
             const url = document.getElementById("url").value;
-            const proxyUrl = "./cors_proxy.php?url=" + encodeURIComponent(url);
+            const proxyUrl = "cors_proxy.php?url=" + encodeURIComponent(url);
 
             fetch(proxyUrl)
                 .then(response => response.text())
