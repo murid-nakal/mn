@@ -1,7 +1,7 @@
 [
   {
     "title": "NBC News Now",
-    "url": "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8",
+    "url": "https://live-manifest.production-public.tubi.io/live/nbc-news-now/h264/playlist.m3u8",
     "image": "https://i.imgur.com/v48mMRT.png",
     "language": "English"
   },
