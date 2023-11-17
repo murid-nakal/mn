@@ -1,1 +1,1 @@
-j/s/o/n
+https://murid-nakal.github.io/mn/assets/j/s/o/n/
