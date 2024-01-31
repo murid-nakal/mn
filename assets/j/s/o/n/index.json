@@ -73,5 +73,11 @@
     "url": "https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8",
     "image": "https://i.imgur.com/SQPVOwn.png",
     "language": "Dutch"
+  }, 
+  {
+    "title": "Optus PL",
+    "url": "https://murid-nakal.github.io/mn/assets/j/s/o/n/ssnz73132.m3u8",
+    "image": "https://img2.sport-tv-guide.live/images/tv-station--1313.png",
+    "language": "AU"
   }
 ]
