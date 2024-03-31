@@ -75,9 +75,9 @@
     "language": "Dutch"
   }, 
   {
-    "title": "USA NETWORK",
-    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
-    "image": "https://id.m.wikipedia.org/wiki/Berkas:USA_Network_logo_(2006).svg",
+    "title": "BEINSPORTS 1",
+    "url": "https://edge1.laotv.la/live/Bsport1/manifest.mpd",
+    "image": "https://www.ais.th/content/ais/th/en_us/consumers/entertainment/sport/bein-sport/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.png/1688985558811/logo-bein-sports.png",
     "language": "English"
   }
 ]
