@@ -73,5 +73,11 @@
     "url": "https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8",
     "image": "https://i.imgur.com/SQPVOwn.png",
     "language": "Dutch"
+  }, 
+  {
+    "title": "USA NETWORK",
+    "url": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
+    "image": "https://id.m.wikipedia.org/wiki/Berkas:USA_Network_logo_(2006).svg",
+    "language": "English"
   }
 ]
