@@ -79,5 +79,35 @@
     "url": "https://edge1.donelfantastic.workers.dev/live/Bsport1/index.m3u8",
     "image": "https://www.ais.th/content/ais/th/en_us/consumers/entertainment/sport/bein-sport/_jcr_content/root/container_1816311984/aiscontainer/columncontrol_copy_c/content1/image.coreimg.png/1688985558811/logo-bein-sports.png",
     "language": "English"
+  },
+  {
+    "title": "SONY TEN 1",
+    "url": "https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8",
+    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
+    "language": "English"
+  },
+  {
+    "title": "SONY TEN 2",
+    "url": "https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8",
+    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
+    "language": "English"
+  },
+  {
+    "title": "SONY TEN 3",
+    "url": "https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8",
+    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
+    "language": "English"
+  },
+  {
+    "title": "SONY TEN 4",
+    "url": "https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8",
+    "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "language": "English"
+  },
+  {
+    "title": "SONY TEN 5",
+    "url": "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
+    "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "language": "English"
   }
 ]
