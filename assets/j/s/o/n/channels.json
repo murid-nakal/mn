@@ -1,7 +1,4 @@
-{
-  "cmd": "FetchCustomerEPG",
-  "CustomerID": "311870",
-  "Channel": [
+[
     {
       "EPGChannelID": "70",
       "ChannelRowID": "470",
@@ -3137,6 +3134,4 @@
       "GenreName": "Entertainment",
       "IsFavorite": "N"
     }
-  ],
-  "RC": "E-000 Success"
-}
+  ]
