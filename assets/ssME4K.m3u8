@@ -1,5 +1,6 @@
 #EXTM3U
+#EXT-X-VERSION:3
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=3440000,BANDWIDTH=4300000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.4d0028,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://cors.yaamp.ru/allinonereborn.com/spice.m3u8?id=5311
+https://allinonereborn.com/spice.m3u8?id=5311
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2400000,BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://cors.yaamp.ru/allinonereborn.com/spice.m3u8?id=5311
+https://allinonereborn.com/spice.m3u8?id=5311
