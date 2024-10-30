@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:0 group-title="FUTBOL ARGENTINO" ,BEIN SPORTS XTRA ESPAÑOL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-name="http://181.209.114.13:8000/play/a07j/index.m3u8" tvg-logo="https://i.postimg.cc/W4MZq5wy/FOX-SPORT-1.png" ,FOX SPORT
 http://190.11.130.46/mnp/fox_sport/output.mpd
 #EXTINF:0 group-title="FUTBOL ARGENTINO" tvg-id="http://181.209.114.13:8000/play/a05c/index.m3u8" tvg-name="https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd" tvg-logo="https://i.postimg.cc/RF4H7wPZ/FOX-SPORT-2.png" ,FOX SPORT 2
