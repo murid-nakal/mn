@@ -1,13 +1,13 @@
 [
     {
       "ChannelName": "CNN",
-      "IconURL": "http://cdn.tvpassport.com/image/station/256x144/dark/cnn.png",
+      "IconURL": "https://icdb.tv/images/e4749e98cd7e38aad571455a6fcf3be8.jpg",
       "StreamURL": "https://donelfantastic.github.io/webiptv/web/hub-sports/index.m3u8",
       "GenreName": "News"
     },
     {
       "ChannelName": "MDU1 Local Info",
-      "IconURL": "https://my.safepayhost.com/images/mdu1tv-icon.png",
+      "IconURL": "https://icdb.tv/images/e4749e98cd7e38aad571455a6fcf3be8.jpg",
       "StreamURL": "https://donelfantastic.github.io/webiptv/web/hub-sports/playlist.m3u8",
       "GenreName": "Video On Demand"
     }
